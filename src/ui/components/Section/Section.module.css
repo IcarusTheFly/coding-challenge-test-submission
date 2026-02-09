@@ -10,7 +10,7 @@
 }
 
 .dark {
-  --color-background: #141925;
+  --color-background: var(--color-dark);
   --color-text: #fff;
   --color-text-light: #878b9a;
 }
